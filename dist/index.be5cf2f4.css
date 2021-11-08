@@ -1,5 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,700;1,400;1,800&family=Press+Start+2P&display=swap');
-
+@import "https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,700;1,400;1,800&family=Press+Start+2P&display=swap";
 :root {
     --primary-color: hsl(214, 77%, 65%);
     --secondary-color: hsl(214, 100%, 76%);
@@ -117,3 +116,5 @@ body {
 .red {
     color: red
 }
+
+/*# sourceMappingURL=index.be5cf2f4.css.map */
